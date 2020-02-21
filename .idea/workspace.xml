@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb8712e2-0856-45f3-83e0-e3b438607b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/consuming_iterables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for_loop_explained.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generator_on_closed_file.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EXAMPLES/sieve_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
@@ -102,6 +100,15 @@
               <folding>
                 <element signature="e#50#245#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generator_on_closed_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -141,6 +148,7 @@
         <option value="$PROJECT_DIR$/EXAMPLES/combinations_permutations.py" />
         <option value="$PROJECT_DIR$/for_loop_explained.py" />
         <option value="$PROJECT_DIR$/consuming_iterables.py" />
+        <option value="$PROJECT_DIR$/generator_on_closed_file.py" />
       </list>
     </option>
   </component>
@@ -208,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.consuming_iterables">
+  <component name="RunManager" selected="Python.generator_on_closed_file">
     <configuration name="combinations_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3bnpnext" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,27 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extended_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3bnpnext" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/extended_iteration.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="for_loop_explained" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3bnpnext" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,6 +272,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_loop_explained.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator_on_closed_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3bnpnext" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator_on_closed_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,19 +323,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.extended_iteration" />
       <item itemvalue="Python.groupby_examples" />
       <item itemvalue="Python.combinations_permutations" />
       <item itemvalue="Python.for_loop_explained" />
       <item itemvalue="Python.consuming_iterables" />
+      <item itemvalue="Python.generator_on_closed_file" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generator_on_closed_file" />
         <item itemvalue="Python.consuming_iterables" />
         <item itemvalue="Python.for_loop_explained" />
         <item itemvalue="Python.combinations_permutations" />
         <item itemvalue="Python.groupby_examples" />
-        <item itemvalue="Python.extended_iteration" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +361,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23036094" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41613588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,6 +661,13 @@
           <folding>
             <element signature="e#50#245#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator_on_closed_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
         </state>
       </provider>
     </entry>
