@@ -8,6 +8,35 @@ for i in count(0, 10):  # <1>
     print(i, end=' ')
 print("\n")
 
+fruits = ["pomegranate", "cherry", "apricot", "apple",
+"lemon", "kiwi", "orange", "lime", "watermelon", "guava",
+"papaya", "fig", "pear", "banana", "tamarind", "persimmon",
+"elderberry", "peach", "blueberry", "lychee", "grape", "date" ]
+
+fgen = (f.upper() for f in fruits)
+
+print(list(islice(fgen, 4, 8)))
+
+print(list(repeat('wombat', 5)))
+
+def help():
+    return "Help! I'm trapped in a Python class!"
+
+print(list(repeat(help(), 5)))
+
+for i in range(5):
+    help()
+
+
+
+
+exit()
+
+
+
+
+
+
 for i in islice(count(0, 10), 6):  # <3>
     print(i, end=' ')
 print("\n")

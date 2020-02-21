@@ -7,11 +7,25 @@ with open('../DATA/words.txt') as words_in:  # <1>
 
     g = groupby(all_words, key=lambda e: e[0])  # <3>
 
-    counts = {letter: len(list(wlist)) for letter, wlist in g}  # <4>
+    for group in g:
+        print(group[0], len(list(group[1])))
 
-sorted_letters = sorted(counts.items(), key=lambda e: e[1], reverse=True)  # <5>
-for letter, count in sorted_letters:  # <6>
-    print(letter, count)
+#    counts = {letter: len(list(wlist)) for letter, wlist in g}  # <4>
 
-print()
-print("Total words counted:", sum(counts.values()))  # <7>
+# print(counts)
+
+
+# sorted_letters = sorted(counts.items(), key=lambda e: e[1], reverse=True)  # <5>
+# for letter, count in sorted_letters:  # <6>
+#     print(letter, count)
+#
+# print()
+# print("Total words counted:", sum(counts.values()))  # <7>
+
+# sorted(iterable, key=key_func)
+# min(iterable, key=key_func)
+# max(iterable, key=key_func)
+# itertools.groupby(iterable, key=key_func)
+#
+
+

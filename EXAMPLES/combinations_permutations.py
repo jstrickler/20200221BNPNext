@@ -18,3 +18,4 @@ print(list(result), "\n")
 
 result = permutations(giant, 2)  # <4>
 print(list(result), "\n")
+

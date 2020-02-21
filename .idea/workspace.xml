@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb8712e2-0856-45f3-83e0-e3b438607b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fun_with_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_time_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single_dispatch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/combinations_permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/combinations_permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/extended_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/extended_iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/groupby_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/groupby_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/infinite_iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/infinite_iterators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/partial_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/partial_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/using_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/using_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun_with_attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun_with_attributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/president.py" beforeDir="false" afterPath="$PROJECT_DIR$/president.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,51 +28,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pastable.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hellobnp.py">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/infinite_iterators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ANSWERS/globals_locals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="12" />
+            <state relative-caret-position="536">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <element signature="e#401#405#0" expanded="true" />
+                <element signature="e#534#579#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/inspect_ex.py">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/extended_iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="e#151#180#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="239">
+              <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/groupby_examples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="29" selection-start-line="24" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fun_with_attributes.py">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/combinations_permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#64#68#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="417">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -84,12 +85,27 @@
         <option value="$PROJECT_DIR$/ANSWERS/globals_locals.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" />
         <option value="$PROJECT_DIR$/fun_with_attributes.py" />
+        <option value="$PROJECT_DIR$/decorator_usage.py" />
+        <option value="$PROJECT_DIR$/decorator_example.py" />
+        <option value="$PROJECT_DIR$/run_time_classes.py" />
+        <option value="$PROJECT_DIR$/junk.py" />
+        <option value="$PROJECT_DIR$/president.py" />
+        <option value="$PROJECT_DIR$/lambda_examples.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/using_reduce.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/partial_functions.py" />
+        <option value="$PROJECT_DIR$/single_dispatch.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/infinite_iterators.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/extended_iteration.py" />
+        <option value="$PROJECT_DIR$/DATA/words.txt" />
+        <option value="$PROJECT_DIR$/EXAMPLES/groupby_examples.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/combinations_permutations.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,7 +124,7 @@
             <path>
               <item name="py3bnpnext" type="b2602c69:ProjectViewProjectNode" />
               <item name="py3bnpnext" type="462c0819:PsiDirectoryNode" />
-              <item name="ANSWERS" type="462c0819:PsiDirectoryNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py3bnpnext" type="b2602c69:ProjectViewProjectNode" />
@@ -150,50 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.president">
-    <configuration name="globals_locals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3bnpnext" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANSWERS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANSWERS/globals_locals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hellobnp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3bnpnext" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hellobnp.py" />
-      <option name="PARAMETERS" value="wombat orange 123" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inspect_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.combinations_permutations">
+    <configuration name="combinations_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3bnpnext" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/combinations_permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +188,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="president" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="extended_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3bnpnext" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/extended_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="groupby_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3bnpnext" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/groupby_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infinite_iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3bnpnext" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/infinite_iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_dispatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3bnpnext" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +263,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/president.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/single_dispatch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,17 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hellobnp" />
-      <item itemvalue="Python.globals_locals" />
-      <item itemvalue="Python.inspect_ex" />
-      <item itemvalue="Python.president" />
+      <item itemvalue="Python.single_dispatch" />
+      <item itemvalue="Python.infinite_iterators" />
+      <item itemvalue="Python.extended_iteration" />
+      <item itemvalue="Python.groupby_examples" />
+      <item itemvalue="Python.combinations_permutations" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.president" />
-        <item itemvalue="Python.inspect_ex" />
-        <item itemvalue="Python.globals_locals" />
-        <item itemvalue="Python.hellobnp" />
+        <item itemvalue="Python.combinations_permutations" />
+        <item itemvalue="Python.groupby_examples" />
+        <item itemvalue="Python.extended_iteration" />
+        <item itemvalue="Python.infinite_iterators" />
+        <item itemvalue="Python.single_dispatch" />
       </list>
     </recent_temporary>
   </component>
@@ -261,11 +300,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1569247" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1569247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -273,7 +312,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5339703" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38322717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,7 +323,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1569247" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1569247" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -292,7 +331,7 @@
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.35774946" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24097665" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -333,13 +372,203 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ANSWERS/pres_attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#94#111#0" expanded="true" />
+            <element signature="e#84#91#0" expanded="true" />
+            <element signature="e#154#171#0" expanded="true" />
+            <element signature="e#416#443#0" expanded="true" />
+            <element signature="e#467#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="e#22#51#0" expanded="true" />
+            <element signature="e#118#178#0" expanded="true" />
+            <element signature="e#145#200#0" expanded="true" />
+            <element signature="e#259#285#0" expanded="true" />
+            <element signature="e#163#172#0" expanded="true" />
+            <element signature="e#570#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_time_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding>
+            <element signature="e#93#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/presidents.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2607">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+          <folding>
+            <element signature="e#108#129#0" expanded="true" />
+            <element signature="e#184#388#0" expanded="true" />
+            <element signature="e#430#1135#0" expanded="true" />
+            <element signature="e#1184#1202#0" expanded="true" />
+            <element signature="e#1252#1270#0" expanded="true" />
+            <element signature="e#1320#1338#0" expanded="true" />
+            <element signature="e#1388#1406#0" expanded="true" />
+            <element signature="e#1457#1476#0" expanded="true" />
+            <element signature="e#1527#1546#0" expanded="true" />
+            <element signature="e#1601#1621#0" expanded="true" />
+            <element signature="e#1674#1694#0" expanded="true" />
+            <element signature="e#1739#1757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/president.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1061">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#86#107#0" expanded="true" />
+            <element signature="e#162#366#0" expanded="true" />
+            <element signature="e#408#1113#0" expanded="true" />
+            <element signature="e#1162#1180#0" expanded="true" />
+            <element signature="e#1230#1248#0" expanded="true" />
+            <element signature="e#1298#1316#0" expanded="true" />
+            <element signature="e#1366#1384#0" expanded="true" />
+            <element signature="e#1435#1454#0" expanded="true" />
+            <element signature="e#1505#1524#0" expanded="true" />
+            <element signature="e#1579#1599#0" expanded="true" />
+            <element signature="e#1652#1672#0" expanded="true" />
+            <element signature="e#1717#1735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fun_with_attributes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="365">
+          <caret line="75" column="2" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
           <folding>
-            <element signature="e#64#68#0" expanded="true" />
+            <element signature="e#103#121#0" expanded="true" />
+            <element signature="e#150#159#0" expanded="true" />
+            <element signature="e#200#207#0" expanded="true" />
+            <element signature="e#602#611#0" expanded="true" />
+            <element signature="e#743#750#0" expanded="true" />
+            <element signature="e#980#989#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#44#57#0" expanded="true" />
+            <element signature="e#77#90#0" expanded="true" />
+            <element signature="e#83#96#0" expanded="true" />
+            <element signature="e#1315#1335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/using_reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1086300356/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="487" lean-forward="true" selection-start-line="487" selection-end-line="487" />
+          <folding>
+            <element signature="e#18728#19173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/partial_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#131#135#0" expanded="true" />
+            <element signature="e#215#224#0" expanded="true" />
+            <element signature="e#300#309#0" expanded="true" />
+            <element signature="e#383#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/infinite_iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#534#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/extended_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="44" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/groupby_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="29" selection-start-line="24" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/combinations_permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

@@ -39,10 +39,10 @@ abandon
 abandoned
 abandoner
 abandoners
-abandoning
-abandonment
 abandonments
 abandons
+abandoning
+abandonment
 abapical
 abas
 abase

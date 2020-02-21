@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from datetime import date
 
 
@@ -77,5 +78,3 @@ class President():
 
 if __name__ == '__main__':
     p = President(1)
-    print(p.first_name, p.last_name)
-
